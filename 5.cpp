@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	int a, b;
-	cin >> a, b;
+	cin >> a >>b;
 	int summ;
 	summ = a + b;
 	cout << summ;
